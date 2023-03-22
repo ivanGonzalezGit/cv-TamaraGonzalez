@@ -1,0 +1,21 @@
+https://github.com/ivanGonzalezGit/cv-TamaraGonzalez.git
+
+
+create a new repository on the command line
+
+echo "# cv-TamaraGonzalez" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ivanGonzalezGit/cv-TamaraGonzalez.git
+git push -u origin main
+
+
+push an existing repository from the command line
+
+git remote add origin https://github.com/ivanGonzalezGit/cv-TamaraGonzalez.git
+git branch -M main
+git push -u origin main
+
+también se puede importar código desde otro repositorio
